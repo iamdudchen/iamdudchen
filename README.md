@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamdudchen
 - 👀 I’m interested in embeded coding C and C++
-- 🌱 I’m currently learning Robotics and electronics
+- 🌱 I’m a Electronic Engineer
 - 💞️ I’m looking to collaborate on C programs
 - 📫 How to reach me d.dudchen@icloud.com
 
